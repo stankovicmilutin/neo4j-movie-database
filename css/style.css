@@ -1,0 +1,9 @@
+body{
+    background-color: #aaa;
+}
+
+#content-wrapper{
+    background-color: #fff;
+    min-height: 800px;
+    padding: 30px;
+}
